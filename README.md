@@ -1,3 +1,4 @@
 # AkademiJam
 
- U97 Unity Takımı
+## Takım İsmi
+U97 Unity Takımı
