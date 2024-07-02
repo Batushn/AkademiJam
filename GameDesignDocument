@@ -54,12 +54,15 @@ This document describes how GameObjects behave, how they’re controlled and the
 the “mechanics” of the game. This documentation is primarily concerned with 
 the game itself. This part of the document is meant to be modular, meaning you could have 
 several different Game Design Documents attached to the Concept Document. 
+
 Design Guidelines 
 This is an important statement about any creative restrictions that need to be considered and includes brief statements 
 about the general (i.e., overall) goal of the design. 
 Game Design Definitions 
 This section established the definition of the game play. Definitions should include how a player wins, loses, transitions 
 between levels, and the main focus of the gameplay. 
+
+
 Game Flowchart 
 The game flowchart provides a visual of how the different game elements and their properties interact. Game flowcharts 
 should represent Objects, Properties, and Actions present in the game. Each of these items should have a number reference 
