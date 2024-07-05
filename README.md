@@ -16,6 +16,6 @@ U97 Unity Takımı
 
 
 
-##oyun açıklaması
+## oyun açıklaması
 .......,oyuncu  diyologlar  eşliğinde  çeşitli bulmacalar çözerek  müşterilerinin  ölmüş yakınlarıyla bağ kurmasını sağlar .
 
