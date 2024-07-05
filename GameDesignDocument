@@ -1,74 +1,225 @@
-#GAME DESIGN DOCUMENT (GDD) TEMPLATE
+﻿
+ 
+GAME DESIGN DOCUMENT (GDD) TEMPLATE 
+ 
+Game Name:  
+ 
+ 
+Genre: 
+ 
+Rol yapma - bulmaca
+ 
+ Diyalog: oyunda karakterimiz diğer oyuncularla konuşucaktır oyuncuya diyalogda karar verebilme hakkı sağlanacaktır
 
-#game name:
 
-#GAME DESIGN DOCUMENT (GDD) TEMPLATE 
-
-#Game Name:  
-
-#Genre: 
-
-#Game Elements: 
-
-#Game elements are the basic activities the player will be doing for fun 
-
-#Player:  
-The number of players that can play the game at once 
+  
+Player:  
+Single-player
+ 
+ 
 TECHNICAL SPECS 
-
+ 
 Technical Form:  
 Basically there are 2D graphics (flat) and 3D graphics (form) 
-#View:  
-Camera view from which the player will experience the game
-
-#Platform:  
-iOS, Android, Mac, PC 
-#Language:  
-C#, C++, Ruby, Java 
-
-#Device:  
-PC, Mobile, Console 
+ 
+ 
+ 
+View:  
+3. bakış açısı ve 1. bakış açısı
+ 
+ 
+ 
+Platform:  
+PC 
+ 
+ 
+ 
+Language:  
+C# 
+ 
+Device:  
+PC
+ 
+ 
+ 
 GAME PLAY 
-Use the game play section to create a descriptive paragraph about how the game is played. You want the use tor imagine 
-they are actually playing the game. Try not to use generic (i.e., broad, non-descriptive) terms when writing about the game 
-play. For example, few readers want to hear statements such as, “enemy_1 will have more hit points than 
-enemy_2.” Instead, it’s better to make statements like, “The Lazarus Fighter has more armour than the Apollo Fighter.” 
+Karakter yaratma:  oyun mağzasından farklı karakterler satın alınabilicek
+Hikaye süreci: oyuncunun tercihlerine gören sürüklenen hikaye 
+…
+
+ 
+ 
+  
+ 
 Game Play Outline 
-This outline will vary depending on the type of game. 
-• Opening the game application 
-• Game options 
+
+
+• Opening the game application :
+
+• Oyuncu oyunu masaüstünden veya başlat menüsünden başlatır. 
+• Oyunun logosunu ve oyun için ipuçlarını içeren bir yükleme ekranı görünür. 
+• Oyun yüklenirken   oyunun müziği çalmaya başlıcak
+
+
+• Game options : 
+Oyun içerisinde ayarlar oyna ve mağaza şeklinde 3  alan olucak
+       ayarlar: ses yükseltme ve azatma  ,.....
+      oyna : oyunun başlamasını sağlayan tuş
+       mağaza: mağazada medyumun kıyafetlerini veya odasındaki eşyaları özeleştiricek  ürünler olucak kulanıcı satın alabilicek
+
+
+
 • Story synopsis 
-• Modes 
-• Game elements 
-• Game levels 
+   insanlar yılda birkez ölülerle iletişim kurabilmektedir ama bazen ruhlar ile  insanlar  bağ kuramaz ve bu yüzden onlarla konuşamazlar. anakarekterimiz b bir falcı ve bu insanları ölmüş ruhlarla konuşmalarına yardım ediyor bunu  farklı bulmacalr çözerek   yapıyor
+  
+ 
+• Modes
+ 
+Hikaye Modu (Story Mode):
+• Oyuncular ana hikayeyi takip ederler.
+• Görevleri tamamlar ve oyunun ana senaryosunu deneyimlerler.
+Eğitim Modu (Training Mode):
+• Oyuncuların oyunun temel mekaniğini öğrenebileceği ve pratik yapabileceği mod.
+• Yeni oyuncular için oyunun kontrollerini ve oyun yapısını öğrenme fırsatı.
+
+• Game elements
+     medyum:  ana karakterdir . oyuncu genelde bu karakteri kontrol eder
+     müşteriler: müşteriler  ölü ruhlarla iletişim kurabilmek için medyuuma gelen kişilerdir
+     bulmacalar: hepsi birbirinde faklı
+      Diyalog: oyunda karakterimiz diğer oyuncularla konuşucaktır oyuncuya diyalogda karar verebilme hakkı sağlanacaktır
+
+  items:
+   kahve fincanı: medyuma ölülerle iletişim kurabilmesi için yardımcı bir itemdir . medyum görüntüyü doğru anlayıp bulmacıyı çözmesi gerekir
+  el falı  tozu : el falı tozu müşterinin eline döker ve elindeki gizlenen bulmacayı çözmeye çalışır .
+ ……..
+
+• Game levels :
+ 3 farklı levelden oluşuyor her level kendine has bir bulmacaya ssahip ve aralarında büyük bir zorluk  yok
+ oyun  bölümde bulmacılar levelere bölümemiştir
 • Player’s controls 
+oyuncular farenin gösterildiği yere bakarken  e tuşuyla etkileşime geçicekler ve bulmacaya göre ek tuşlar eklenilecektir
+
+ 
 • Winning 
+ 3 farklı hikayeyi tamamllanması 
+
 • Losing 
-• End 
+ oyunda kaybetme durumu belirlenmemiştir  hikayenin devamlılığı üzerine gidilmiştirr ama bulmacayı çözememe durumlarında kaybetme mekaniği eklenebilir
+• End
+  3 ruhuda kurtaaran medyumumuz ruhları sevdikleriyle buluşturur  ve en sonunda kendi iletişim kurmak istediği ruhu kurtarmaya çalışır ve kurtarır(happy end)
+   3 ruhuda kurtaaran medyumumuz ruhları sevdikleriyle buluşturur   ve en sonunda yanlız kaldığında ölen sevgilisiyle konuşmaya çalışır ama hala şeytanla yaptığı anlaşma bitmemiştir o yüzden buluşamaz (dark end)
 • Why is all this fun? 
+ bulmaca seven oyuncular için bir hikayenin içine sokarken biribirinden farklı bulmacaları ile oyuncuları maratonluktan kurtarıyor.
+ 
+ 
+ 
+ 
+ 
+
 Key Features 
-Key features are a list of game elements that are attractive to the player.
-
-#DESIGN DOCUMENT 
-This document describes how GameObjects behave, how they’re controlled and their properties. This is often referred to as 
-the “mechanics” of the game. This documentation is primarily concerned with 
-the game itself. This part of the document is meant to be modular, meaning you could have 
-several different Game Design Documents attached to the Concept Document. 
-
+Key features are a list of game elements that are attractive to the player. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DESIGN DOCUMENT 
+This document describes how game objects behave, how they’re controlled and their properties. This is often referred to as the “mechanics” of the game. This documentation is primarily concerned with the game itself. This part of the document is meant to be modular, meaning you could have several different Game Design Documents attached to the Concept Document. 
+ 
+ 
 Design Guidelines 
-This is an important statement about any creative restrictions that need to be considered and includes brief statements 
-about the general (i.e., overall) goal of the design. 
+This is an important statement about any creative restrictions that need to be considered and includes brief statements about the general (i.e., overall) goal of the design. 
+ 
+ 
+ 
+ 
+ 
+ 
 Game Design Definitions 
-This section established the definition of the game play. Definitions should include how a player wins, loses, transitions 
-between levels, and the main focus of the gameplay. 
-
-
+This section established the definition of the game play. Definitions should include how a player wins, loses, transitions between levels, and the main focus of the gameplay. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Game Flowchart 
-The game flowchart provides a visual of how the different game elements and their properties interact. Game flowcharts 
-should represent Objects, Properties, and Actions present in the game. Each of these items should have a number reference 
-to where they exist within the game mechanics document. 
+The game flowchart provides a visual of how the different game elements and their properties interact. Game flowcharts should represent Objects, Properties, and Actions present in the game. Each of these items should have a number reference to where they exist within the game mechanics document. 
 • Menu 
 • Synopsis 
 • Game Play 
 • Player Control 
-• Game Over (Winning and Losing
+• Game Over (Winning and Losing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Player Definition 
+● Use this section for quick descriptions that define the player 
+● Use the Player Properties section (below) to define the properties for each player. Player Properties can be affected by the player’s action or interaction with other game elements. Define the properties and how they affect the player’s current game. 
+● Use the Player Rewards section to make a list of all objects that affect the player in a positive way. Define these objects by describing what affect they cause and how the player can use the object. 
+ 
+Player Definitions 
+A suggested list may include: 
+• Health 
+• Weapons 
+• Actions 
+
