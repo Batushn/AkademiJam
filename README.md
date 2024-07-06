@@ -27,11 +27,10 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 
 
 ## Hedef Kitle 
-
--Hikaye odaklı oyun severler
--Gizem ve bulmaca severler
--Bağımsız oyun hayranları
--10+
+- Hikaye odaklı oyun severler
+- Gizem ve bulmaca severler
+- Bağımsız oyun hayranları
+- 10+
 
 
 ---
