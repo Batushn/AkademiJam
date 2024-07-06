@@ -2,7 +2,7 @@
  
 GAME DESIGN DOCUMENT (GDD) TEMPLATE 
  
-Game Name:  
+Game Name:  The Unforeseen
  
  
 Genre: 
@@ -25,7 +25,7 @@ Basically there are 2D graphics (flat) and 3D graphics (form)
  
  
 View:  
-3. bakış açısı ve 1. bakış açısı
+1. bakış açısı bazı bulmacalarda 3. Bakış açısına geçilebilir
  
  
  
@@ -43,7 +43,7 @@ PC
  
  
 GAME PLAY 
-Karakter yaratma:  oyun mağzasından farklı karakterler satın alınabilicek
+Karakter yaratma:  oyun mağazasından farklı karakterler satın alınabilecek
 Hikaye süreci: oyuncunun tercihlerine gören sürüklenen hikaye 
 …
 
@@ -58,19 +58,19 @@ Game Play Outline
 
 • Oyuncu oyunu masaüstünden veya başlat menüsünden başlatır. 
 • Oyunun logosunu ve oyun için ipuçlarını içeren bir yükleme ekranı görünür. 
-• Oyun yüklenirken   oyunun müziği çalmaya başlıcak
+• Oyun yüklenirken   oyunun müziği çalmaya başlayacak
 
 
 • Game options : 
-Oyun içerisinde ayarlar oyna ve mağaza şeklinde 3  alan olucak
+Oyun içerisinde ayarlar oyna ve mağaza şeklinde 3  alan olacak
        ayarlar: ses yükseltme ve azatma  ,.....
       oyna : oyunun başlamasını sağlayan tuş
-       mağaza: mağazada medyumun kıyafetlerini veya odasındaki eşyaları özeleştiricek  ürünler olucak kulanıcı satın alabilicek
+       mağaza: mağazada medyumun kıyafetlerini veya odasındaki eşyaları özeleştirilecek  ürünler olacak kullanıcı satın alabilecek
 
 
 
 • Story synopsis 
-   insanlar yılda birkez ölülerle iletişim kurabilmektedir ama bazen ruhlar ile  insanlar  bağ kuramaz ve bu yüzden onlarla konuşamazlar. anakarekterimiz b bir falcı ve bu insanları ölmüş ruhlarla konuşmalarına yardım ediyor bunu  farklı bulmacalr çözerek   yapıyor
+   insanlar yılda bir kez ölülerle iletişim kurabilmektedir ama bazen ruhlar ile  insanlar  bağ kuramaz ve bu yüzden onlarla konuşamazlar. Ana karekterimiz b bir falcı ve bu insanları ölmüş ruhlarla konuşmalarına yardım ediyor bunu  farklı bulmacalar çözerek   yapıyor
   
  
 • Modes
@@ -84,30 +84,42 @@ Eğitim Modu (Training Mode):
 
 • Game elements
      medyum:  ana karakterdir . oyuncu genelde bu karakteri kontrol eder
-     müşteriler: müşteriler  ölü ruhlarla iletişim kurabilmek için medyuuma gelen kişilerdir
+     müşteriler: müşteriler  ölü ruhlarla iletişim kurabilmek için medyuma gelen kişilerdir
      bulmacalar: hepsi birbirinde faklı
       Diyalog: oyunda karakterimiz diğer oyuncularla konuşucaktır oyuncuya diyalogda karar verebilme hakkı sağlanacaktır
 
   items:
-   kahve fincanı: medyuma ölülerle iletişim kurabilmesi için yardımcı bir itemdir . medyum görüntüyü doğru anlayıp bulmacıyı çözmesi gerekir
-  el falı  tozu : el falı tozu müşterinin eline döker ve elindeki gizlenen bulmacayı çözmeye çalışır .
- ……..
+   kahve fincanı: medyuma ölülerle iletişim kurabilmesi için yardımcı bir itemdir . medyum kahve fincanında aşağısında  belirtilen şekilleri bulmaya çalışıcak  ve onun geçmişi ve geleceği hakkında bilgi toplayacak
+
+
+
+
+
+
+
+  el falı  : el falındaki çizgileri doğru birleştirmek gerekmektedir.
+
+
+
+
+
 
 • Game levels :
- 3 farklı levelden oluşuyor her level kendine has bir bulmacaya ssahip ve aralarında büyük bir zorluk  yok
- oyun  bölümde bulmacılar levelere bölümemiştir
+ Oyun ana bir hikayeden oluşuyor ana hikayenin içinde kendine has bir bulmacaya sahip  olmaktadır
 • Player’s controls 
-oyuncular farenin gösterildiği yere bakarken  e tuşuyla etkileşime geçicekler ve bulmacaya göre ek tuşlar eklenilecektir
+oyuncular farenin gösterildiği yere bakarken  e tuşuyla etkileşime geçecekler ve bulmacaya göre ek tuşlar eklenilecektir
 
  
 • Winning 
- 3 farklı hikayeyi tamamllanması 
-
+ Ana hikayenin sonunda gelmesi  ve oyuncunun kararını vermesi 
 • Losing 
- oyunda kaybetme durumu belirlenmemiştir  hikayenin devamlılığı üzerine gidilmiştirr ama bulmacayı çözememe durumlarında kaybetme mekaniği eklenebilir
+ oyunda kaybetme durumu belirlenmemiştir  hikayenin devamlılığı üzerine gidilmiştir ama bulmacayı çözememe durumlarında kaybetme mekaniği eklenebilir
 • End
+“””
   3 ruhuda kurtaaran medyumumuz ruhları sevdikleriyle buluşturur  ve en sonunda kendi iletişim kurmak istediği ruhu kurtarmaya çalışır ve kurtarır(happy end)
-   3 ruhuda kurtaaran medyumumuz ruhları sevdikleriyle buluşturur   ve en sonunda yanlız kaldığında ölen sevgilisiyle konuşmaya çalışır ama hala şeytanla yaptığı anlaşma bitmemiştir o yüzden buluşamaz (dark end)
+   3 ruhuda kurtaaran medyumumuz ruhları sevdikleriyle buluşturur   ve en sonunda yanlız kaldığında ölen sevgilisiyle konuşmaya çalışır ama hala şeytanla yaptığı anlaşma bitmemiştir o yüzden buluşamaz (dark end)”””
+
+değiştirelebilir
 • Why is all this fun? 
  bulmaca seven oyuncular için bir hikayenin içine sokarken biribirinden farklı bulmacaları ile oyuncuları maratonluktan kurtarıyor.
  
