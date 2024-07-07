@@ -64,4 +64,6 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
 ![](resimler/sahne.png)
 ![](resimler/diyalaog.png)
 
+## Sprint Review
 
+## Sprint Retrospective
