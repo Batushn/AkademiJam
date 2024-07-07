@@ -44,7 +44,7 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 **daily scrum**: ağırlıklı discord olmak üzere  Whatsapp ve  Discord üzerinden iletişime geçildi . yoğunluk ve farklı zamanlarda müsait olma durumu yüzünden haftada 2-3 toplantı yapıldı.
 
 
-**bazı iletişim mesajları ve toplantı görüntüleri **: https://imgur.com/a/R0IuNAT
+**bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/R0IuNAT
  
  
   
