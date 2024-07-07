@@ -45,7 +45,11 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 
 
 **bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/R0IuNAT
+
+
+## screenshot:
+
+**burndown chart**
  
- 
-  
+![](resimler/chair1.png)
 
