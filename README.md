@@ -65,6 +65,13 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
 ![](resimler/sahne.png)
 ![](resimler/diyalaog.png)
 
-## Sprint Review
+## Sprint Review:
+- oyun tasarımına  3d oco tarzına benzer bir tasaım  kulanılcak.
+- oyunundaki karekter tasarımı  için farklı tasarımlar dennencek.
+- seneryo sonu üzerine karar verilmesi  gerekiyor.
+- oyunda elleri  azaltıcaz
 
 ## Sprint Retrospective
+-  Roller ile ilgili düzenleme yapılmış,melike tasarım ekibine geçmiştir
+-   oyunun iconu kararlaştıralacak
+  
