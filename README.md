@@ -31,8 +31,11 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 - Gizem ve bulmaca severler
 - Bağımsız oyun hayranları
 - 10+
+- PC oyuncuları
 
 
+##Product backlog 
+https://docs.google.com/spreadsheets/d/11Jortk7Zlt1x35nrrcsGkpNUBSMPmxbxRoXy3PgYQWg/edit?gid=0#gid=0
 ---
 # **SPRINT 1**
 
