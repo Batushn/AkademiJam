@@ -53,3 +53,9 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
  
 ![](resimler/chair1.png)
 
+
+**Sprint Board Screenshot:**
+![](resimler/kanban1.png)
+![](resimler/kanban2.png)
+
+
