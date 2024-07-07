@@ -57,5 +57,7 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 **Sprint Board Screenshot:**
 ![](resimler/kanban1.png)
 ![](resimler/kanban2.png)
+**kanban template URL**
+https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666F/kanban-template
 
 
