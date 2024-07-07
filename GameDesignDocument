@@ -128,8 +128,6 @@ değiştirelebilir
  
  
 
-Key Features 
-Key features are a list of game elements that are attractive to the player. 
  
  
  
@@ -144,94 +142,4 @@ Key features are a list of game elements that are attractive to the player.
  
  
  
- 
-DESIGN DOCUMENT 
-This document describes how game objects behave, how they’re controlled and their properties. This is often referred to as the “mechanics” of the game. This documentation is primarily concerned with the game itself. This part of the document is meant to be modular, meaning you could have several different Game Design Documents attached to the Concept Document. 
- 
- 
-Design Guidelines 
-This is an important statement about any creative restrictions that need to be considered and includes brief statements about the general (i.e., overall) goal of the design. 
- 
- 
- 
- 
- 
- 
-Game Design Definitions 
-This section established the definition of the game play. Definitions should include how a player wins, loses, transitions between levels, and the main focus of the gameplay. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Game Flowchart 
-The game flowchart provides a visual of how the different game elements and their properties interact. Game flowcharts should represent Objects, Properties, and Actions present in the game. Each of these items should have a number reference to where they exist within the game mechanics document. 
-• Menu 
-• Synopsis 
-• Game Play 
-• Player Control 
-• Game Over (Winning and Losing 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Player Definition 
-● Use this section for quick descriptions that define the player 
-● Use the Player Properties section (below) to define the properties for each player. Player Properties can be affected by the player’s action or interaction with other game elements. Define the properties and how they affect the player’s current game. 
-● Use the Player Rewards section to make a list of all objects that affect the player in a positive way. Define these objects by describing what affect they cause and how the player can use the object. 
- 
-Player Definitions 
-A suggested list may include: 
-• Health 
-• Weapons 
-• Actions 
 
