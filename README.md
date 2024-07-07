@@ -52,7 +52,7 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 
 **Burndown chart**
  
-![](resimler/chair1.png)
+![](resimler/chart1.png)
 
 
 **Sprint Board Screenshot:**
