@@ -42,6 +42,8 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
  **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 100 dur. İlk Sprint için bitirilmesi istenilen puan sayısı 18 olarak belirlenmiştir.Birinci sprinte  sadece 14 puan görev tamamlanabilmiştir .4 puan değerinde görev 2.sprinte bırakılmıştır .
 
 **daily scrum**: ağırlıklı discord olmak üzere  Whatsapp ve  Discord üzerinden iletişime geçildi . yoğunluk ve farklı zamanlarda müsait olma durumu yüzünden haftada 2-3 toplantı yapıldı.
+
+
 **bazı iletişim mesajları ve toplantı görüntüleri **: https://imgur.com/a/R0IuNAT
  
  
