@@ -16,7 +16,7 @@ U97 Unity Takımı
 
 
 
-##Oyun Açıklaması
+## Oyun Açıklaması
 The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çeşitli yapbozları çözerek gelen  müşterisinnin  ölmüş bir yakınıyla konuşmasını sağlar. yapbozlar çözülürken müşterimizin hikayesini ve medyumuuzun gelişimini görmekteyiz
 
 
