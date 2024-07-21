@@ -95,5 +95,6 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
 https://trello.com/invite/b/66856cab7d0ffb9edf5661db/ATTI5117330b54c6543597cf4d6aa20f84c3823A666F/kanban-template
 
 **Ürün ile ilgili bazı screenshotlar:**
-![](resimler/
-![](resimler/
+![](resimler/masa.png)
+https://github.com/user-attachments/assets/5860a644-4909-4aba-9cdc-72f10f2e1b68
+
