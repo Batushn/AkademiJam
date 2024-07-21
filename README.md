@@ -80,4 +80,7 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
  sprinti tamamlanması için beklenen değer 
 **Daily scrum**:
 **Bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/ekxHnvj
+
+## Screenshot:
+
 **Sprint Board Screenshot:**
