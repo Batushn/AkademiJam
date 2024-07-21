@@ -96,5 +96,7 @@ https://trello.com/invite/b/66856cab7d0ffb9edf5661db/ATTI5117330b54c6543597cf4d6
 
 **Ürün ile ilgili bazı screenshotlar:**
 ![](resimler/masa.png)
+![](resimler/sahil2.png)
+![](resimler/sahil.png)
 https://github.com/user-attachments/assets/5860a644-4909-4aba-9cdc-72f10f2e1b68
 
