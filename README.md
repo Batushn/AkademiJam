@@ -16,7 +16,7 @@ U97 Unity Takımı
 
 
 
-##Oyun Açıklaması
+## Oyun Açıklaması
 The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çeşitli yapbozları çözerek gelen  müşterisinnin  ölmüş bir yakınıyla konuşmasını sağlar. yapbozlar çözülürken müşterimizin hikayesini ve medyumuuzun gelişimini görmekteyiz
 
 
@@ -39,6 +39,7 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 ---
 # **SPRINT 1**
  sprinti tamamlanması için beklenen değer 18 dir
+ 
  **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 100 dur. İlk Sprint için bitirilmesi istenilen puan sayısı 18 olarak belirlenmiştir.Birinci sprinte  sadece 14 puan görev tamamlanabilmiştir .4 puan değerinde görev 2.sprinte bırakılmıştır .
 
 **Daily scrum**: ağırlıklı discord olmak üzere  Whatsapp ve  Discord üzerinden iletişime geçildi . yoğunluk ve farklı zamanlarda müsait olma durumu yüzünden haftada 2-3 toplantı yapıldı.
@@ -51,7 +52,7 @@ The Unforeseen ,oyuncumuz bir medyumu canlandırmaktadır .medyumun görevi çe�
 
 **Burndown chart**
  
-![](resimler/chair1.png)
+![](resimler/chart1.png)
 
 
 **Sprint Board Screenshot:**
@@ -64,4 +65,19 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
 ![](resimler/sahne.png)
 ![](resimler/diyalaog.png)
 
+## Sprint Review:
+- oyun tasarımına  3d oco tarzına benzer bir tasaım  kulanılcak.
+- oyunundaki karekter tasarımı  için farklı tasarımlar dennencek.
+- seneryo sonu üzerine karar verilmesi  gerekiyor.
+- oyunda elleri  azaltıcaz
 
+## Sprint Retrospective
+-  Roller ile ilgili düzenleme yapılmış,melike tasarım ekibine geçmiştir
+-   oyunun iconu kararlaştıralacak
+  
+# **SPRINT 2**
+
+ sprinti tamamlanması için beklenen değer 
+**Daily scrum**:
+**Bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/ekxHnvj
+**Sprint Board Screenshot:**
