@@ -85,6 +85,15 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
 
 **Burndown chart**
  
-![](resimler/burndown2)
+![](resimler/burndown2.png)
 
 **Sprint Board Screenshot:**
+
+![](resimler/kanban4.png)
+
+**kanban template URL**
+https://trello.com/invite/b/66856cab7d0ffb9edf5661db/ATTI5117330b54c6543597cf4d6aa20f84c3823A666F/kanban-template
+
+**Ürün ile ilgili bazı screenshotlar:**
+![](resimler/
+![](resimler/
