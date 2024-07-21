@@ -77,9 +77,13 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
   
 # **SPRINT 2**
 
- sprinti tamamlanması için beklenen değer 
-**Daily scrum**:
-**Bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/ekxHnvj
+ sprinti tamamlanması için beklenen  değer   40 'dır
+ 
+**Puan tamamlama mantığı** : Proje boyunca tamamlanması gereken backlog puanı 100 dur.İkinci Sprint için bitirilmesi istenilen puan sayısı 40 olarak belirlenmiştir. bu sprinte  tamamlanan ve test aşamasında olan görevlerin puanı 32 dir 
+
+**Daily scrum** : ağırlıklı discord olmak üzere  Whatsapp ve  Discord üzerinden iletişime geçildi . yoğunluk ve farklı zamanlarda müsait olma durumu yüzünden haftada 2-3 toplantı yapıldı.
+
+**Bazı iletişim mesajları ve toplantı görüntüleri** : https://imgur.com/a/ekxHnvj
 
 ## Screenshot:
 
@@ -96,7 +100,8 @@ https://trello.com/invite/b/66856cab7d0ffb9edf5661db/ATTI5117330b54c6543597cf4d6
 
 **Ürün ile ilgili bazı screenshotlar:**
 ![](resimler/masa.png)
-![](resimler/sahil2.png)
-![](resimler/sahil.png)
-https://github.com/user-attachments/assets/5860a644-4909-4aba-9cdc-72f10f2e1b68
+![](resimler/sahil2.jpg)
+![](resimler/sahil.jpg)
+**örnek diyalog videosu:**
 
+https://github.com/user-attachments/assets/5860a644-4909-4aba-9cdc-72f10f2e1b68
