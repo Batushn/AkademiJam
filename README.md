@@ -83,4 +83,8 @@ https://trello.com/invite/b/P5xBTnDD/ATTI5117330b54c6543597cf4d6aa20f84c3823A666
 
 ## Screenshot:
 
+**Burndown chart**
+ 
+![](resimler/burndown2)
+
 **Sprint Board Screenshot:**
