@@ -110,5 +110,8 @@ https://github.com/user-attachments/assets/f540524f-1f20-4b9f-9b71-8014bc00f42e
 
 
 ## Sprint Review:
-- 
+- oyun içi değişiklik yapmama kararı alınmıştır .
 ## Sprint Retrospective
+- oyun ikonu tartışılacak
+- görev dağılımları yeniden değerledirilecek
+  
