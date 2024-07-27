@@ -1,0 +1,31 @@
+{
+	"dialogueIndex": 0,
+	"characters": [
+		{
+			"characterIndex": 0,
+			"name": "Müşteri",
+			"spriteName": "musteri",
+			"position": "left"
+		},
+		{
+			"characterIndex": 1,
+			"name": "Ece",
+			"spriteName": "ece",
+			"position": "right"
+		}
+	],
+	"dialogues": [
+		{
+			"name": "Müşteri",
+			"message": "Merhaba, nasılsın"
+		},
+		{
+			"name": "Ece",
+			"message": "İyiyim, sen nasılsın"
+		},
+		{
+			"name": "Müşteri",
+			"message": "İyi olmana çok sevindim, benim adım Ahmet!"
+		}
+	]
+}
