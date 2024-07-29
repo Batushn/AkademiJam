@@ -4,7 +4,7 @@ using UnityEngine;
 using TMPro;
 using Newtonsoft.Json;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -122,7 +122,8 @@ public class DialogueManager : MonoBehaviour
         }
         else // end of dialogues
         {
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 
