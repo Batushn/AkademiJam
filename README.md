@@ -115,3 +115,15 @@ https://github.com/user-attachments/assets/f540524f-1f20-4b9f-9b71-8014bc00f42e
 - oyun ikonu tartışılacak
 - görev dağılımları yeniden değerledirilecek
   
+# **SPRINT 3**
+sprinti tamamlanması için beklenen değer 36 dir
+
+**Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 90 düşürülmüştür. Son Sprint için bitirilmesi istenilen puan sayısı 36 olarak belirlenmiştir.
+
+**Daily scrum**: ağırlıklı discord olmak üzere  Whatsapp ve  Discord üzerinden iletişime geçildi .  diğer  sprinten farklı  olarak genel  toplantı dışında  görevlerin işleyişleri ile alakalı olarak toplantılar yapıldı.
+
+**Bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/fizObND
+
+
+  
+  
