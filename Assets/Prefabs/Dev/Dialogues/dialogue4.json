@@ -1,0 +1,35 @@
+{
+    "dialogueIndex": 4,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        }
+    ],
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Şimdi avuç içini incelediğimde birkaç sembol görüyorum. Bu semboller, babanın ruhunun bulunma olasılığını işaret ediyor. Ancak bu sembolleri birbiriyle hizaya getirmemiz gerekiyor. Bu hizalama, babanın ruhunun yerini tespit etmemize yardımcı olabilir."
+        },
+        {
+            "name": "Leyla",
+            "message": "Öncelikle, avuç içinde bir anahtar sembolü görüyorum. Bu sembol, babanın ruhunun kapalı veya gizli bir alanda olduğunu gösterir. Anahtarla uyumlu doğru sembolleri bulmak, bu gizli alanın kapısını açmamıza yardımcı olabilir."
+        },
+        {
+            "name": "Leyla",
+            "message": "Bir diğer sembol ise harita. Bu, babanın ruhunun belirli bir yerle ilişkilendirildiğini işaret eder. Harita sembolünü anahtar sembolüyle hizalayarak, ruhun bulunabileceği bölgeyi belirlemeliyiz."
+        },
+        {
+            "name": "Leyla",
+            "message": "Son olarak, bir ışık hüzmesi sembolü var. Bu sembol, aydınlanma ve rehberlik anlamına gelir. Işık hüzmesini anahtar ve harita sembollerinin hizalanmış haliyle karşılaştırmalıyız. Işık, doğru yönde ilerlediğimizde bize rehberlik edecektir."
+        }
+    ]
+}

@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 public class SceneChanger : MonoBehaviour
 {
     public GameObject interactableObject;
+    public float mindistance = 2.0f;
 
     void Update()
     {
@@ -26,7 +27,7 @@ public class SceneChanger : MonoBehaviour
     {
         float distance = Vector3.Distance(transform.position, interactableObject.transform.position);
         Debug.Log("Mesafe: " + distance);
-        return distance < 2.0f;
+        return distance < mindistance;
     }
 
     void LoadNextScene()

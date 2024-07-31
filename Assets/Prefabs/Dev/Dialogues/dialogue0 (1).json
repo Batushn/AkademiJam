@@ -1,0 +1,55 @@
+{
+    "dialogueIndex": 0,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        }
+    ],
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Hoş geldin Yasemin. Bugün, ruhların dünyamıza en yakın olduğu gün. Ve seninle babanın ruhunu çağırmak için buradayız, değil mi?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Merhaba. Evet, doğru. Babamı çok özledim ve ona veda edemedim. Ayrıca, araştırmamla ilgili ondan öğrenmem gereken önemli bilgiler var."
+        },
+        {
+            "name": "Leyla",
+            "message": "Anlıyorum. Bazı ruhlara veda edemezsin, bu yüzden bize bu özel gün hediye edildi. Bana biraz daha detay vermek ister misin?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Ben bir tarih araştırmacısıyım ve babam İstanbul’un kadim tarihine dair önemli çalışmalar yapan bir arkeologdu. Babamı bir arkeolojik çalışma sırasında üzerine molozlar düşmesi sonucu kaybettim ve ona bir veda bile edemedim. Bu yüzden yardımına ihtiyacım var."
+        },
+        {
+            "name": "Leyla",
+            "message": "Öyleyse bize verilen bu kıymetli hediyeyi kullanalım. Ama unutma, hayattaki her adımın bir bedeli vardır. Bunu ödemeye hazır mısın?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Evet, ne olursa olsun hazırım."
+        },
+        {
+            "name": "Leyla",
+            "message": "O zaman öncelikle ruhlar dünyasında babanı bulmamız lazım. Bu biraz uzun bir yol olabilir. Kahve falına bakarak başlayalım. Telvelerin bize rehberlik etmesine izin verelim. Babanın adı nedir?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Mehmet Özdemir"
+        },
+        {
+            "name": "Leyla",
+            "message": "EY KADIM PERDE, BENİM IÇIN ARALAN! ÇIĞLIKLARI VE FISILTILARI BANA ULAŞTIR! RUHLARIN DIYARI BANA KAPILARINI MEHMET ÖZDEMİR IÇIN AÇ!"
+        }
+    ]
+}

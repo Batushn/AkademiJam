@@ -1,0 +1,59 @@
+{
+    "dialogueIndex": 2,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        }
+    ],
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Bu kart Saklanan Kart. Bu kart, bilinmeyen, gizli ve sezgisel bilgilerle ilgilidir."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Bu kart babamın ruhunun yeri hakkında ne tür ipuçları verebilir?"
+        },
+        {
+            "name": "Leyla",
+            "message": "Kart bize der ki; Babanın ruhu bilinmeyen ve gizli bir alanda olabilir. Yani, ruh erişilmesi zor bir yerde saklanıyor olabilir. Bu, ruhun henüz tam anlamıyla huzura kavuşmadığını da bize söylüyor."
+        },
+        {
+            "name": "Leyla",
+            "message": "İkinci kart Gizli Geçitler. Bu kart, içsel keşif, yalnızlık ve derin düşünce ile ilgilidir."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Nasıl yani?"
+        },
+        {
+            "name": "Leyla",
+            "message": "Bu kart, babanın ruhunun yalnız bir yerde veya derin bir keşif gerektiren bir alanda olabileceğini gösteriyor. Aynı zamanda bu alan babanın üzerine derin düşündüğü bir yer olmalı."
+        },
+        {
+            "name": "Leyla",
+            "message": "İlginç… Adalet kartı çıktı. Bu kart, denge, adalet ve kararlar ile ilgilidir."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Peki bu ne anlama geliyor?"
+        },
+        {
+            "name": "Leyla",
+            "message": "Bu kart, babanın ruhunun huzur bulması için adaletin sağlanması gerektiğini gösteriyor. Ruhun huzura kavuşması için gerekli adalet ve denge sağlanmalıdır."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Böyle bir şeyi hiç beklemiyordum."
+        }
+    ]
+}

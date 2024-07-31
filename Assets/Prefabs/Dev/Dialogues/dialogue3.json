@@ -1,0 +1,28 @@
+{
+    "dialogueIndex": 3,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        }
+    ],
+    
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Babana oldukça yakın olduğumuzu hissediyorum. Ama çözmemiz gereken birkaç adım daha var. Seninle olan bağından yola çıkmalıyız. Bu bizi ona daha da yakınlaştıracaktır. Şimdi bana elini uzat. Avuç için yukarıya bakıyor olsun."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Elbette; umarım çağrımı duyar ve aramızdaki bağ beni ona ulaştırır."
+        }
+    ]
+}

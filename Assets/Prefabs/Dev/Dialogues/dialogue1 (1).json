@@ -1,0 +1,55 @@
+{
+    "dialogueIndex": 1,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        }
+    ],
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Bir kitap görüyorum. Hislerim saklanmış, önemli bilgiler içeren el yazması bir kitap olduğunu bana söylüyor."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Babamın önemli belgeler ve defterlerle dolu bir çalışma odası vardı. İçeriye kimseyi almazdı."
+        },
+        {
+            "name": "Leyla",
+            "message": "Bir anahtar var. Bu anahtar, babanın ruhunun sıkıştığı bir yeri ya da gizli bir geçidi işaret ediyor olabilir. Odasında böyle bir alan var mıydı?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Bunu bilmiyorum ama mutlaka böyle bir yer olmalı, çünkü tüneller konusundaki çalışmasını gizlilikle yürütüyordu."
+        },
+        {
+            "name": "Leyla",
+            "message": "Bir de küçük bir fener var. Baban yanında fener taşır mıydı?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Onu hiç fenerle görmemiştim."
+        },
+        {
+            "name": "Leyla",
+            "message": "Hmm… Sanırım yolculuğa devam etmeliyiz."
+        },
+        {
+            "name": "Leyla",
+            "message": "Bir ipucu bulduk doğru yoldayız. Ama Mehmet Bey bizle çok iyi saklambaç oynuyor. Bu yüzden yolumuzu daha da aydınlatmalıyız."
+        },
+        {
+            "name": "Leyla",
+            "message": "Bu tarot kartlarından arkası dönük bir şekilde 3 tane seçmeni istiyorum ve seçtiklerini lütfen ellerime bırak."
+        },
+    ]
+}
