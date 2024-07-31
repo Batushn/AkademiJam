@@ -1,0 +1,31 @@
+{
+    "dialogueIndex": 6,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        }
+    ],
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Yıldızlar yolumu aydınlatın ve Mehmet Özdemir’in ruhunun nerede olduğunu bana gösterin!"
+        },
+        {
+            "name": "Leyla",
+            "message": "Yasemin, babanın ruhunu bulduk. Şimdi onunla konuşma zamanımız geldi. Hazır mısın?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Evet, hazırım."
+        }
+    ]
+}

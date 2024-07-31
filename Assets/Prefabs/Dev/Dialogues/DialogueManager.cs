@@ -122,9 +122,17 @@ public class DialogueManager : MonoBehaviour
         }
         else // end of dialogues
         {
-            //gameObject.SetActive(false);
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            if (jsonObject.DialogueIndex == 7)
+            {
+                SceneManager.LoadScene(0);
+            }
+            else
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            }
+            
         }
+
     }
 
     void GetMessageAndAdjustComponents()

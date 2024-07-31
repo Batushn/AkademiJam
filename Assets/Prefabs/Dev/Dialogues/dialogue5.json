@@ -1,0 +1,31 @@
+{
+    "dialogueIndex": 5,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        }
+    ],
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Karşımdaki harita bana İstanbul-Rumeli Hisarını gösterdi. Bununla ilgili bir bağlantı kurabiliyor musun?"
+        },
+        {
+            "name": "Yasemin",
+            "message": "Hmm… Ben küçükken babamın orada asistanı ile önemli bir çalışma yaptığını hatırlıyorum. Ama detaylarını hatırlayamayacak kadar küçüktüm. Yalnızca bir defasında beni oraya götürdüğünü ve sahilde beraber dondurma yerken benimle oyunlar oynadığını hatırlıyorum."
+        },
+        {
+            "name": "Leyla",
+            "message": "Aranızdaki bağ sayesinde yaklaşık olarak yerini tespit edebildik sanırım. Geriye sadece bir adım kaldı. O da yıldızlara sormak."
+        }
+    ]
+}
