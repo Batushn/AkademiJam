@@ -116,14 +116,17 @@ https://github.com/user-attachments/assets/f540524f-1f20-4b9f-9b71-8014bc00f42e
 - görev dağılımları yeniden değerledirilecek
   
 # **SPRINT 3**
-sprinti tamamlanması için beklenen değer 36 dir
+sprinti tamamlanması için beklenen değer 42 dir
 
-**Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 90 düşürülmüştür. Son Sprint için bitirilmesi istenilen puan sayısı 36 olarak belirlenmiştir.
+**Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 90 düşürülmüştür. Son Sprint için bitirilmesi istenilen puan sayısı 42 olarak belirlenmiştir ve toplamda 90 puanlık  toplam puanın 88 puanına ulaşılmıştır
 
 **Daily scrum**: ağırlıklı discord olmak üzere  Whatsapp ve  Discord üzerinden iletişime geçildi .  diğer  sprinten farklı  olarak genel  toplantı dışında  görevlerin işleyişleri ile alakalı olarak toplantılar yapıldı.
 
 **Bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/fizObND
 
+## Screenshot:
+
+**Burndown chart**
 
   
   
