@@ -130,4 +130,15 @@ sprinti tamamlanması için beklenen değer 42 dir
 
 ![](resimler/burndown7.png)
 
-  
+**Sprint Board Screenshot:**
+
+![](resimler/kanban5.png)
+
+**kanban template URL**
+
+https://trello.com/invite/b/66856cab7d0ffb9edf5661db/ATTI5117330b54c6543597cf4d6aa20f84c3823A666F/kanban-template
+
+
+**Ürün ile ilgili bazı screenshotlar:**
+![](resimler/yıldız.png)
+![](resimler/oda.png)
