@@ -128,5 +128,6 @@ sprinti tamamlanması için beklenen değer 42 dir
 
 **Burndown chart**
 
-  
+![](resimler/burndown7.png)
+
   
