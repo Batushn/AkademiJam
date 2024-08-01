@@ -120,7 +120,7 @@ public class DialogueManager : MonoBehaviour
             textComponent.text = string.Empty;
             GetMessageAndAdjustComponents();
         }
-        else // end of dialogues
+        else 
         {
             if (jsonObject.DialogueIndex == 7)
             {
