@@ -1037,7 +1037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27902ffacdfc1b04ebeffafded1d316b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactableObject: {fileID: 617393473}
+  interactableObject: {fileID: 1983733593}
   mindistance: 4
 --- !u!143 &283963158
 CharacterController:
@@ -4445,7 +4445,7 @@ Transform:
   m_GameObject: {fileID: 1983733593}
   serializedVersion: 2
   m_LocalRotation: {x: -0.15875183, y: -0.7281703, z: 0.18044266, w: -0.64187723}
-  m_LocalPosition: {x: -1.1404114, y: 1.3451328, z: -0.10917902}
+  m_LocalPosition: {x: -1.421, y: 1.343, z: 0.843}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

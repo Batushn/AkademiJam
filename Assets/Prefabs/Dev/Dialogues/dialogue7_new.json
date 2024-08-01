@@ -1,0 +1,77 @@
+{
+    "dialogueIndex": 7,
+    "characters": [
+        {
+            "characterIndex": 0,
+            "name": "Leyla",
+            "spriteName": "leyla",
+            "position": "left"
+        },
+        {
+            "characterIndex": 1,
+            "name": "Yasemin",
+            "spriteName": "yasemin",
+            "position": "right"
+        },
+    ],
+    "dialogues": [
+        {
+            "name": "Leyla",
+            "message": "Mehmet Bey, kızınız Yasemin veda edemediğiniz için benim aracılığım ile size ulaşıyor. Onunla konuşmak ister misiniz?"
+        },
+        {
+            "position": "right",
+            "name": "Mehmet Bey",
+            "spriteName": "mehmet",
+            "message": "Yasemin… Bu nasıl bir mucize? Elbette isterim."
+        },
+        {
+            "name": "Leyla",
+            "message": "Fiziksel bedenim Yasemin’in elini tutarken ruhsal bedenim sizin elinizi tutacak. Şimdi birbirinizle konuşabilirsiniz. Ama zamanınızın dar olduğunu unutmayın, gün doğmak üzere."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Baba, seni çok özledim. Seni son bir kez duymak, sana veda etmek istiyorum."
+        },
+        {
+            "position": "left",
+            "name": "Mehmet Bey",
+            "spriteName": "mehmet",
+            "message": "Kızım… Ben de seni çok seviyorum. Sana veda edemediğim için özür dilerim. Seninle konuşacak çok şeyim var, ama zaman dar. Bir süre önce, asistanım tarafından ihanete uğradım. Bilgilerimi çaldı ve beni… Beni öldürdü."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Asistanın mı? Neden böyle bir şey yaptı?"
+        },
+        {
+            "position": "left",
+            "name": "Mehmet Bey",
+            "spriteName": "mehmet",
+            "message": "Bu tüneli uzun yıllar yaptığım çalışmalar sonucu bulduğumu biliyorsun. Tünelde bazı eserler buldum ve o, bu eserlerin değerini biliyordu bu yüzden çalmak istedi. Karanlık işlere bulaştı ve beni bu şekilde ortadan kaldırdı. Maalesef, tünellerdeki bazı önemli bilgileri de alıp gitti. Onları bulmanın yolunu biliyorum ama… bunu seninle paylaşamadan gitmek zorunda kaldım."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Baba, ne yapabilirim? Bilgileri nasıl bulabilirim?"
+        },
+        {
+            "position": "left",
+            "name": "Mehmet Bey",
+            "spriteName": "mehmet",
+            "message": "Asistanım hala tünellerde dolaşıyor, gizli geçitler var. Bu bilgiler yanlış insanların eline geçmemeli. Odamdaki masanın altındaki gizli bir bölmede tünellerin haritalarını bulacaksın. Ama dikkat et, asistanımın hala bu konuda tehlike oluşturabileceğini unutma."
+        },
+        {
+            "name": "Leyla",
+            "message": "Süre dolmak üzere… Mehmet Bey, ruhunuzun huzur bulması için gerekli her şeyi yapacağız. Yasemin, babanın ruhunu huzura kavuşturmak için bu bilgileri kullanabilirsin."
+        },
+        {
+            "name": "Yasemin",
+            "message": "Tamam. Bilgileri bulup intikamını alacağım. Seni çok seviyorum, baba."
+        },
+        {
+            "position": "left",
+            "name": "Mehmet Bey",
+            "spriteName": "mehmet",
+            "message": "İyi ki geldin, kızım. Önce kendi güvenliğini sağla. Huzur içinde olabileceğim tek sonuç tünellerin bilgilerinin yanlış insanların eline geçmemesi ve sağlıklı olman."
+        }
+    ]
+}

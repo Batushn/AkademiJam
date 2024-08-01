@@ -130,7 +130,7 @@ public class DialogueManager : MonoBehaviour
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             }
-            
+
         }
 
     }
