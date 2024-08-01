@@ -3,6 +3,10 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitcher : MonoBehaviour
 {
+    void Awake()
+    {
+        UnityEngine.Cursor.visible = true;
+    }
 
     void Update()
     {    

@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using UnityEngine.SceneManagement;
 
+
 public class CupControl : MonoBehaviour
 {
     public float rotationSpeed = 25.0f;
@@ -14,6 +15,10 @@ public class CupControl : MonoBehaviour
     new Rigidbody rigidbody;
     public int puzzleObjectCount = 3;
     private int clickedObjectCount = 0;
+    void Awake()
+    {
+        UnityEngine.Cursor.visible = true;
+    }
 
 
     void Start()

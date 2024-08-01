@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class RotateOnClick : MonoBehaviour
 {
@@ -69,8 +70,7 @@ public class RotateOnClick : MonoBehaviour
         }
         else
         {
-            // TODO go to next scene
-            Debug.Log("Puzzle finished");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
 
 

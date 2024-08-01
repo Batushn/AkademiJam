@@ -11,6 +11,10 @@ public class GameController : MonoBehaviour
     private int currentPointIndex = 0;
     private bool hasCompletedSequence = false;
 
+    void Awake()
+    {
+        UnityEngine.Cursor.visible = true;
+    }
     void Start()
     {
         foreach (var button in buttons)

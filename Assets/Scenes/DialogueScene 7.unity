@@ -1031,7 +1031,7 @@ MonoBehaviour:
   name_right: {fileID: 1946833317}
   textComponent: {fileID: 733022737}
   spritePath: Sprites/
-  textAnimationSpeed: 0
+  textAnimationSpeed: 60
 --- !u!1 &1743006657
 GameObject:
   m_ObjectHideFlags: 0

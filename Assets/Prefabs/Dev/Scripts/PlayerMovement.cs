@@ -5,6 +5,10 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    void Awake()
+    {
+        UnityEngine.Cursor.visible = true;
+    }
     public CharacterController controller;
 
     public float speed = 12f;

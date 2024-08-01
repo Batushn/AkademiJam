@@ -3,6 +3,10 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
 {
+    void Awake()
+    {
+        UnityEngine.Cursor.visible = true;
+    }
     public GameObject interactableObject;
     public float mindistance = 2.0f;
 
