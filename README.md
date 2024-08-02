@@ -144,7 +144,7 @@ https://trello.com/invite/b/66856cab7d0ffb9edf5661db/ATTI5117330b54c6543597cf4d6
 ![](resimler/oda.png)
 
 ## Sprint Review:
--oyunundaki bütün görevler tamamlanmıştır.
--takım üyeleri son çıkarılan oyundan memun kaldılar
+- oyunundaki bütün görevler tamamlanmıştır.
+- takım üyeleri son çıkarılan oyundan memun kaldılar
 ## Sprint Retrospective
--özveriyle ve uyumlu şekilde çalışıldığı için takım birbirini tebrik etti 
+- özveriyle ve uyumlu şekilde çalışıldığı için takım birbirini tebrik etti 
